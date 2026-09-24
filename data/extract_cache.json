@@ -1,0 +1,933 @@
+{
+ "00fd0ad244b694397d2d80573ceb45b7bfa155ff": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-oh-seven",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "hydro test on one-oh-seven done",
+   "tag_refs": [
+    "one-oh-seven"
+   ],
+   "work_phrase": "hydro test"
+  }
+ ],
+ "0291fe005e224cfe6d002abb0bb964b41123a67c": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Spool erection for XX-171 started on the rack extension.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "0de9869392e8fd7daffee6e67c6fa0a6e8096580": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-107 spool",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-107 spool erection completed at 17:15.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "1fc62ffa6367ab80fdbdd1d89835ffa01606cbe4": [],
+ "23a5f9690fc48fdb7bc2d6091d838d165f0ccdb6": [
+  {
+   "completion_explicit": true,
+   "date": "2026-09-18",
+   "event_type": "FINISH",
+   "object_phrase": "XX-104",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "PIP-1837 XX-104 welding completed today.",
+   "tag_refs": [
+    "PIP-1837",
+    "XX-104"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
+ "2432e2dcee3ac0c13fc438f20529fd98346b7a13": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-107",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT done XX-107",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "HT"
+  },
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "",
+   "qty_done": 2,
+   "qty_total": null,
+   "span": "pressure held 2 hrs",
+   "tag_refs": [],
+   "work_phrase": "pressure held"
+  }
+ ],
+ "2501e029bae7543e402aea9d6511a2a65c1c69da": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-seven-one",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "erection on one-seven-one done",
+   "tag_refs": [
+    "one-seven-one"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "2b0f9c32ad48de2997bf3b96715e0060bf5257cd": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "grid 9-10",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Backfill complete at grid 9-10",
+   "tag_refs": [
+    "grid 9-10"
+   ],
+   "work_phrase": "Backfill"
+  }
+ ],
+ "2ee3c29996151167f0b4bc66ea01afea987cad57": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "Line 107",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Line 107 erection ongoing",
+   "tag_refs": [
+    "Line 107"
+   ],
+   "work_phrase": "erection"
+  },
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "spools",
+   "qty_done": 3,
+   "qty_total": 5,
+   "span": "3 of 5 spools lifted",
+   "tag_refs": [],
+   "work_phrase": "lifted"
+  }
+ ],
+ "2fea09e9f90533e9b48d37b33547d7d78e59cf59": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "C-4401",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Megger test on C-4401 done, results OK.",
+   "tag_refs": [
+    "C-4401"
+   ],
+   "work_phrase": "Megger test"
+  }
+ ],
+ "2ffbc6ae409d921d417a67ed405620e310ed125c": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "line 6\"-XX-104",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "PIP-1836: erection of line 6\"-XX-104 started today.",
+   "tag_refs": [
+    "line 6\"-XX-104"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "32c88d3a9fe304dae7b3e001fcef36009c438be8": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Temporary support",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Temporary support fabricated near PR-3 grid 7.",
+   "tag_refs": [
+    "PR-3 grid 7"
+   ],
+   "work_phrase": "fabricated"
+  }
+ ],
+ "3bca0ce55a7e49a008f87d1a67967f539b7eb982": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-107 spool",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-107 spool erection completed at 17:15.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "erection"
+  },
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Temporary support",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Temporary support fabricated near PR-3 grid 7.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "fabricated"
+  }
+ ],
+ "459bce0a034aeda112a3d260c30a26deb0a0b74e": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "C-4401",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Termination of C-4401 completed.",
+   "tag_refs": [
+    "C-4401"
+   ],
+   "work_phrase": "Termination"
+  }
+ ],
+ "4acf0b71922a5b535c52e7a6489f53aec46f3816": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Pump P301A",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Pump P301A set on skid.",
+   "tag_refs": [
+    "P301A"
+   ],
+   "work_phrase": "set"
+  }
+ ],
+ "59daaddb94d43f942a35d7b50e44156fa362b3b5": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-one-two",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT on one-one-two completed",
+   "tag_refs": [
+    "one-one-two"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "5ca32c48156d8ef5c969a064383f2b92cb31269e": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-112",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Erection of XX-112 completed.",
+   "tag_refs": [
+    "XX-112"
+   ],
+   "work_phrase": "Erection"
+  }
+ ],
+ "5e52f91c83055ffac0d3a3ad3730b8244e1cfdd6": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-171 hydrotest completed.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "hydrotest"
+  }
+ ],
+ "5f2494bf07821538c6a7856880fd409bb48d4827": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-104",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-104 HT started, TP-07.",
+   "tag_refs": [
+    "XX-104",
+    "TP-07"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "5fa543aaca1b59428adc0abdd9d206af868ba8d0": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "PR-3",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Mechanical completion certificate for PR-3 issued.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "Mechanical completion"
+  }
+ ],
+ "616a7e9e7ba5ecb9f615b22e6795f5330d83a361": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "Cable C-4401",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Cable C-4401 laying started from substation.",
+   "tag_refs": [
+    "C-4401"
+   ],
+   "work_phrase": "laying"
+  }
+ ],
+ "68959eaad0a3fada590c1b2657d161175248520c": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "PR-3 grid 9-10 foundations",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Concrete pour for PR-3 grid 9-10 foundations completed.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "Concrete pour"
+  }
+ ],
+ "690a6a6e938f9be51411aa1467da94c2b8750982": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "cable C-4401",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Termination of cable C-4401 started at MCC end.",
+   "tag_refs": [
+    "C-4401"
+   ],
+   "work_phrase": "Termination"
+  }
+ ],
+ "693ca9440d7c046151f311d1ee37fae31fb9c7a1": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "PR-3 grid 9-10",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Backfilling at PR-3 grid 9-10 started.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "Backfilling"
+  }
+ ],
+ "6abca44dfba431c16ec5dea6e335069d72a877df": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "line XX-170",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT of line XX-170 started, test pack TP-03.",
+   "tag_refs": [
+    "XX-170",
+    "TP-03"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "6e4f308314e417c585ba5d10a7665a24f2b6df48": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "pipe rack PR-3 grid 9-10 foundations",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Excavation for pipe rack PR-3 grid 9-10 foundations commenced.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "Excavation"
+  }
+ ],
+ "7b8554fef142cd4f01415cb2c5592a7d9257db0c": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Scaffolding",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Scaffolding erected at PR-3 grid 4 for insulation access.",
+   "tag_refs": [
+    "PR-3 grid 4"
+   ],
+   "work_phrase": "erected"
+  }
+ ],
+ "7e1b29b24f35736603b9276812f19431e778c1c9": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-104",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-104 hydrotest passed",
+   "tag_refs": [
+    "XX-104"
+   ],
+   "work_phrase": "hydrotest"
+  }
+ ],
+ "8375d824b3b567d5816267a6f0c1769ae897f68e": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "Exchanger E-201",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Exchanger E-201 set on foundation",
+   "tag_refs": [
+    "E-201"
+   ],
+   "work_phrase": "set"
+  },
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "Exchanger E-201",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Exchanger E-201 levelled",
+   "tag_refs": [
+    "E-201"
+   ],
+   "work_phrase": "levelled"
+  }
+ ],
+ "84e74849a2e0810c790a64c66973f5a94e4fc25c": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "TP-07",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "TP-07 QA acceptance signed.",
+   "tag_refs": [
+    "TP-07"
+   ],
+   "work_phrase": "QA acceptance"
+  }
+ ],
+ "8898472c6cad35f9126df5ec56bd3f9aa062168c": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-107",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Painting touch-up on XX-107 started.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "Painting touch-up"
+  }
+ ],
+ "8d9a1612a4a425f229c99389cc3c9171fc1d1914": [
+  {
+   "completion_explicit": false,
+   "date": "2026-09-16",
+   "event_type": "PROGRESS",
+   "object_phrase": "line XX-107",
+   "qty_done": 18,
+   "qty_total": 22,
+   "span": "Welding of line XX-107 in progress, 18 of 22 joints.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "Welding"
+  }
+ ],
+ "997a7d442c6e63bb0128b4ff9dde835edccf4ced": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "line XX-101",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT completed for line XX-101.",
+   "tag_refs": [
+    "XX-101"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "9ced231315f49d23479edb80f09589a2e94b21f7": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "Line xx101",
+   "qty_done": 12,
+   "qty_total": 18,
+   "span": "Line xx101 welding in progress, 12 of 18 joints completed.",
+   "tag_refs": [
+    "xx101"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
+ "9dc7cddb9c6452fb0479d3a57870a93dd98d2798": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Welding XX-171 completed.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "Welding"
+  }
+ ],
+ "aed2a0d07ee6d2cf4aac2149258c2dfd3ac02636": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Line XX-107",
+   "qty_done": 22,
+   "qty_total": 22,
+   "span": "Line XX-107 welding 22/22 joints completed, NDT clear.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
+ "af440b5d263f4ed791a961d7bb992d1e4acf3ac7": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "big exchanger",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "big exchanger hydro test done",
+   "tag_refs": [],
+   "work_phrase": "hydro test"
+  }
+ ],
+ "b0490c8c16796b49065fe9b45277dcc7afa9eed9": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-oh-seven",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "hydro test on one-oh-seven done",
+   "tag_refs": [
+    "one-oh-seven"
+   ],
+   "work_phrase": "hydro test"
+  }
+ ],
+ "b116bdd3f68ad620e50cfb058e1858ff705b7e16": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "line one-oh-one",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT on line one-oh-one started",
+   "tag_refs": [
+    "line one-oh-one"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "b692be386e8f11e79be1742772743f9513ea00ea": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-112",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT of XX-112 started.",
+   "tag_refs": [
+    "XX-112"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "b9a98527cfef5dadeb64831f715b9e38288accc2": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-oh-seven",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "hydro test on one-oh-seven done",
+   "tag_refs": [
+    "one-oh-seven"
+   ],
+   "work_phrase": "hydro test"
+  }
+ ],
+ "bc659b078a1d70751d25e56647002ebe4609fd42": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-oh seven",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "hydro test on one-oh seven done",
+   "tag_refs": [
+    "one-oh seven"
+   ],
+   "work_phrase": "hydro test"
+  }
+ ],
+ "bea612f0fdb5991e777af91739dbeb0a7d302ab3": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "line XX-107",
+   "qty_done": 14,
+   "qty_total": 22,
+   "span": "Welding of line XX-107 continuing, 14 of 22 joints.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "Welding"
+  }
+ ],
+ "c321d7b8b73ea3e2eaf5698e2845abe6b4d9c8d6": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-107",
+   "qty_done": 22,
+   "qty_total": 22,
+   "span": "XX-107 welding complete (22/22)",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
+ "cd4b9aff7c6a614ec5478da9a28d432c0438967a": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "pump P-301A",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Alignment of pump P-301A started.",
+   "tag_refs": [
+    "P-301A"
+   ],
+   "work_phrase": "Alignment"
+  }
+ ],
+ "d3faa9ba6c030e48561f5be69d4c682a123155ca": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Pump P-301A",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Pump P-301A alignment completed",
+   "tag_refs": [
+    "P-301A"
+   ],
+   "work_phrase": "alignment"
+  },
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "Pump P-301A",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "coupling fitted",
+   "tag_refs": [
+    "P-301A"
+   ],
+   "work_phrase": "coupling"
+  }
+ ],
+ "d826fed1ad3998775a90bb7754c9f70df1fe8ae0": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "big exchanger",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "big exchanger grouting done",
+   "tag_refs": [],
+   "work_phrase": "grouting"
+  }
+ ],
+ "dbdbb6803bdcc2ff2099865d5ac4dff1229968ee": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Welding XX-171 started.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "Welding"
+  }
+ ],
+ "de6c47b5d17ffe37877b1b561dd321254c783206": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-171 HT started.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "e0b042a7162157206bae83c4b2c4e14a4231a378": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "XX-171",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-171 welding 50% done.",
+   "tag_refs": [
+    "XX-171"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
+ "e70a164e8affe0ff403a59cc8c92795ab44b4985": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "one-oh-four",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "erection of one-oh-four is finished",
+   "tag_refs": [
+    "one-oh-four"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "e710846e3c72ed16f1c272fa1a3ba8132fcbad15": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "XX-104",
+   "qty_done": 9,
+   "qty_total": 24,
+   "span": "Welding XX-104 in progress, 9/24 jts.",
+   "tag_refs": [
+    "XX-104"
+   ],
+   "work_phrase": "Welding"
+  }
+ ],
+ "ea86c94d7450c0663ecc56e673fd282698a84acc": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-107 spool",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-107 spool erection completed at 17:15",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
+ "ee2176ac1a66085ea1bd18a9e22b6fd231a8034f": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "line XX-107",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT of line XX-107 started.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
+ "ef22c833ed8f8a3b1a92b89a5ce49a62abcb474c": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "C-4401 cable",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "C-4401 cable pulling completed.",
+   "tag_refs": [
+    "C-4401"
+   ],
+   "work_phrase": "cable pulling"
+  }
+ ],
+ "f0d03cef54a41229a793344a2dbdb0d302041705": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "PR-3 grid 9-10",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "PR-3 grid 9-10 excavation completed and handed over for concreting.",
+   "tag_refs": [
+    "PR-3"
+   ],
+   "work_phrase": "excavation"
+  }
+ ],
+ "f36b4c073c779199c2b3e43bb8f7c8536f87405e": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "E-201",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "Grouting of E-201 started.",
+   "tag_refs": [
+    "E-201"
+   ],
+   "work_phrase": "Grouting"
+  }
+ ],
+ "fafb12845c1e703993260eb77ddcad8633dab7e5": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "TP-07",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "TP-07 QA acceptance completed and signed by OIL QA.",
+   "tag_refs": [
+    "TP-07"
+   ],
+   "work_phrase": "QA acceptance"
+  }
+ ],
+ "ffb2a5b22b1e02f049c4cd33499a0e13f0d0729a": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "XX-107 spool",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-107 spool erection started at 08:30.",
+   "tag_refs": [
+    "XX-107"
+   ],
+   "work_phrase": "erection"
+  }
+ ]
+}

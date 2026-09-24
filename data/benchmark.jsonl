@@ -1,0 +1,61 @@
+{"id": "b01", "date": "2026-09-07", "source": "DPR", "text": "PIP-1836: erection of line 6\"-XX-104 started today.", "gold": [{"a": "PIP-1836", "e": "START", "d": "2026-09-07"}], "case": "easy: activity ID"}
+{"id": "b02", "date": "2026-09-07", "source": "DPR", "text": "Excavation for pipe rack PR-3 grid 9-10 foundations commenced.", "gold": [{"a": "CIV-0410", "e": "START", "d": "2026-09-07"}], "case": "medium: no tag"}
+{"id": "b03", "date": "2026-09-08", "source": "XLS", "text": "XX-170 | Welding | 20 | 20 | ", "gold": [{"a": "PIP-2209", "e": "FINISH", "d": "2026-09-08"}], "case": "hard: quantity says complete"}
+{"id": "b04", "date": "2026-09-08", "source": "DPR", "text": "Exchanger E-201 set on foundation and levelled.", "gold": [{"a": "EQP-0501", "e": "FINISH", "d": "2026-09-08"}], "case": "easy: equipment tag"}
+{"id": "b05", "date": "2026-09-08", "source": "DPR", "text": "Line xx101 welding in progress, 12 of 18 joints completed.", "gold": [{"a": "PIP-1831", "e": "PROGRESS", "d": "2026-09-08"}], "case": "medium: tag without dash"}
+{"id": "b06", "date": "2026-09-09", "source": "VOICE", "text": "erection of one-oh-four is finished", "gold": [{"a": "PIP-1836", "e": "FINISH", "d": "2026-09-09"}], "case": "medium: spoken tag"}
+{"id": "b07", "date": "2026-09-09", "source": "DPR", "text": "PR-3 grid 9-10 excavation completed and handed over for concreting.", "gold": [{"a": "CIV-0410", "e": "FINISH", "d": "2026-09-09"}], "case": "medium: no tag"}
+{"id": "b08", "date": "2026-09-10", "source": "DPR", "text": "XX-107 spool erection started at 08:30.", "gold": [{"a": "PIP-1842", "e": "START", "d": "2026-09-10"}], "case": "easy: tag + step"}
+{"id": "b09", "date": "2026-09-10", "source": "DPR", "text": "HT of line XX-170 started, test pack TP-03.", "gold": [{"a": "PIP-2210", "e": "START", "d": "2026-09-10"}], "case": "learning: slang HT"}
+{"id": "b10", "date": "2026-09-10", "source": "XLS", "text": "XX-101 | Welding | 18 | 18 | 2 joints under repair", "gold": [{"a": "PIP-1831", "e": "PROGRESS", "d": "2026-09-10"}], "case": "hard: quantity complete but repairs pending"}
+{"id": "b11", "date": "2026-09-10", "source": "DPR", "text": "Grouting of E-201 started.", "gold": [{"a": "EQP-0502", "e": "START", "d": "2026-09-10"}], "case": "easy: tag + step"}
+{"id": "b12", "date": "2026-09-11", "source": "DPR", "text": "Concrete pour for PR-3 grid 9-10 foundations completed.", "gold": [{"a": "CIV-0411", "e": "FINISH", "d": "2026-09-11"}], "case": "medium: no tag"}
+{"id": "b13", "date": "2026-09-11", "source": "VOICE", "text": "big exchanger grouting done", "gold": [{"a": "EQP-0502", "e": "FINISH", "d": "2026-09-11"}], "case": "learning: equipment nickname"}
+{"id": "b14", "date": "2026-09-12", "source": "DPR", "text": "Line 107 erection ongoing, 3 of 5 spools lifted.", "gold": [{"a": "PIP-1842", "e": "PROGRESS", "d": "2026-09-12"}], "case": "medium: bare line number"}
+{"id": "b15", "date": "2026-09-12", "source": "DPR", "text": "Temporary support fabricated near PR-3 grid 7.", "gold": [{"a": "NEW", "e": "", "d": ""}], "case": "hard: new work"}
+{"id": "b16", "date": "2026-09-13", "source": "DPR", "text": "XX-107 spool erection completed at 17:15.", "gold": [{"a": "PIP-1842", "e": "FINISH", "d": "2026-09-13"}], "case": "easy: tag + step"}
+{"id": "b17", "date": "2026-09-13", "source": "XLS", "text": "Line 107 | Welding | 6 | 22 | ", "gold": [{"a": "PIP-1843", "e": "PROGRESS", "d": "2026-09-13"}], "case": "medium: bare line number"}
+{"id": "b18", "date": "2026-09-13", "source": "VOICE", "text": "hydro test on one-oh-seven done", "gold": [{"a": "PIP-2210", "e": "FINISH", "d": "2026-09-13"}], "case": "hard: speech mix-up 107/170"}
+{"id": "b19", "date": "2026-09-13", "source": "DPR", "text": "Hydrotest of XX-104 scheduled for Monday.", "gold": [], "case": "hard: planned, not an event"}
+{"id": "b20", "date": "2026-09-14", "source": "DPR", "text": "Backfilling at PR-3 grid 9-10 started.", "gold": [{"a": "CIV-0412", "e": "START", "d": "2026-09-14"}], "case": "medium: no tag"}
+{"id": "b21", "date": "2026-09-14", "source": "DPR", "text": "Welding XX-104 in progress, 9/24 jts.", "gold": [{"a": "PIP-1837", "e": "PROGRESS", "d": "2026-09-14"}], "case": "easy: tag + step"}
+{"id": "b22", "date": "2026-09-14", "source": "DPR", "text": "Pump P301A set on skid.", "gold": [{"a": "EQP-0510", "e": "FINISH", "d": "2026-09-14"}], "case": "medium: tag without dash"}
+{"id": "b23", "date": "2026-09-14", "source": "XLS", "text": "XX-101 | Welding | 18 | 18 | repairs cleared", "gold": [{"a": "PIP-1831", "e": "FINISH", "d": "2026-09-14"}], "case": "hard: quantity says complete"}
+{"id": "b24", "date": "2026-09-15", "source": "VOICE", "text": "HT on line one-oh-one started", "gold": [{"a": "PIP-1832", "e": "START", "d": "2026-09-15"}], "case": "learning: slang HT"}
+{"id": "b25", "date": "2026-09-15", "source": "DPR", "text": "Erection of XX-112 completed.", "gold": [{"a": "PIP-1861", "e": "FINISH", "d": "2026-09-15"}], "case": "easy: tag + step"}
+{"id": "b26", "date": "2026-09-15", "source": "DPR", "text": "Backfill complete at grid 9-10, area handed to piping.", "gold": [{"a": "CIV-0412", "e": "FINISH", "d": "2026-09-15"}], "case": "medium: no tag"}
+{"id": "b27", "date": "2026-09-16", "source": "DPR", "text": "Cable C-4401 laying started from substation.", "gold": [{"a": "ELE-0701", "e": "START", "d": "2026-09-16"}], "case": "easy: tag + step"}
+{"id": "b28", "date": "2026-09-16", "source": "DPR", "text": "Spool erection for XX-171 started on the rack extension.", "gold": [{"a": "PIP-2213", "e": "START", "d": "2026-09-16"}], "case": "easy: tag + step"}
+{"id": "b29", "date": "2026-09-16", "source": "XLS", "text": "XX-112 | Welding | 4 | 20 | ", "gold": [{"a": "PIP-1862", "e": "PROGRESS", "d": "2026-09-16"}], "case": "easy: spreadsheet row"}
+{"id": "b30", "date": "2026-09-17", "source": "DPR", "text": "HT completed for line XX-101.", "gold": [{"a": "PIP-1832", "e": "FINISH", "d": "2026-09-17"}], "case": "learning: slang HT"}
+{"id": "b31", "date": "2026-09-17", "source": "VOICE", "text": "big exchanger hydro test done", "gold": [{"a": "NEW", "e": "", "d": ""}], "case": "hard: new work on known equipment"}
+{"id": "b32", "date": "2026-09-17", "source": "DPR", "text": "Welding of line XX-107 continuing, 14 of 22 joints.", "gold": [{"a": "PIP-1843", "e": "PROGRESS", "d": "2026-09-17"}], "case": "easy: tag + step"}
+{"id": "b33", "date": "2026-09-18", "source": "DPR", "text": "C-4401 cable pulling completed.", "gold": [{"a": "ELE-0701", "e": "FINISH", "d": "2026-09-18"}], "case": "medium: synonym"}
+{"id": "b34", "date": "2026-09-18", "source": "DPR", "text": "Alignment of pump P-301A started.", "gold": [{"a": "EQP-0511", "e": "START", "d": "2026-09-18"}], "case": "easy: tag + step"}
+{"id": "b35", "date": "2026-09-18", "source": "DPR", "text": "PIP-1837 XX-104 welding completed today.", "gold": [{"a": "PIP-1837", "e": "FINISH", "d": "2026-09-18"}], "case": "easy: activity ID"}
+{"id": "b36", "date": "2026-09-19", "source": "DPR", "text": "Termination of cable C-4401 started at MCC end.", "gold": [{"a": "ELE-0702", "e": "START", "d": "2026-09-19"}], "case": "easy: tag + step"}
+{"id": "b37", "date": "2026-09-19", "source": "DPR", "text": "Line XX-107 welding 22/22 joints completed, NDT clear.", "gold": [{"a": "PIP-1843", "e": "FINISH", "d": "2026-09-19"}], "case": "easy: tag + step"}
+{"id": "b38", "date": "2026-09-20", "source": "DPR", "text": "XX-104 HT started, TP-07.", "gold": [{"a": "PIP-1838", "e": "START", "d": "2026-09-20"}], "case": "learning: slang HT"}
+{"id": "b39", "date": "2026-09-20", "source": "DPR", "text": "(Late report for 16-Sep) Welding of line XX-107 in progress, 18 of 22 joints.", "gold": [{"a": "PIP-1843", "e": "PROGRESS", "d": "2026-09-16"}], "case": "hard: stale report"}
+{"id": "b40", "date": "2026-09-20", "source": "DPR", "text": "XX-107 welding complete (22/22).", "gold": [{"a": "PIP-1843", "e": "FINISH", "d": "2026-09-19"}], "case": "hard: duplicate report, different date"}
+{"id": "b41", "date": "2026-09-21", "source": "DPR", "text": "HT of line XX-107 started.", "gold": [{"a": "PIP-1844", "e": "START", "d": "2026-09-21"}], "case": "learning: slang HT"}
+{"id": "b42", "date": "2026-09-21", "source": "DPR", "text": "Megger test on C-4401 done, results OK.", "gold": [{"a": "ELE-0703", "e": "FINISH", "d": "2026-09-21"}], "case": "hard: genuine out-of-sequence"}
+{"id": "b43", "date": "2026-09-21", "source": "VOICE", "text": "erection on one-seven-one done", "gold": [{"a": "PIP-2213", "e": "FINISH", "d": "2026-09-21"}], "case": "hard: spoken tag with a near-duplicate"}
+{"id": "b44", "date": "2026-09-22", "source": "DPR", "text": "XX-104 hydrotest passed, line drained.", "gold": [{"a": "PIP-1838", "e": "FINISH", "d": "2026-09-22"}], "case": "easy: tag + step"}
+{"id": "b45", "date": "2026-09-22", "source": "DPR", "text": "Pump P-301A alignment completed, coupling fitted.", "gold": [{"a": "EQP-0511", "e": "FINISH", "d": "2026-09-22"}], "case": "easy: tag + step"}
+{"id": "b46", "date": "2026-09-22", "source": "XLS", "text": "XX-112 | Welding | 11 | 20 | ", "gold": [{"a": "PIP-1862", "e": "PROGRESS", "d": "2026-09-22"}], "case": "easy: spreadsheet row"}
+{"id": "b47", "date": "2026-09-23", "source": "DPR", "text": "HT done XX-107, pressure held 2 hrs.", "gold": [{"a": "PIP-1844", "e": "FINISH", "d": "2026-09-23"}], "case": "learning: slang HT"}
+{"id": "b48", "date": "2026-09-23", "source": "DPR", "text": "Welding XX-171 started.", "gold": [{"a": "PIP-2214", "e": "START", "d": "2026-09-23"}], "case": "easy: tag + step"}
+{"id": "b49", "date": "2026-09-23", "source": "DPR", "text": "Scaffolding erected at PR-3 grid 4 for insulation access.", "gold": [{"a": "NEW", "e": "", "d": ""}], "case": "hard: new work with a schedule verb"}
+{"id": "b50", "date": "2026-09-24", "source": "DPR", "text": "Termination of C-4401 completed.", "gold": [{"a": "ELE-0702", "e": "FINISH", "d": "2026-09-24"}], "case": "easy: tag + step"}
+{"id": "b51", "date": "2026-09-25", "source": "XLS", "text": "XX-112 | Welding | 20 | 20 | ", "gold": [{"a": "PIP-1862", "e": "FINISH", "d": "2026-09-25"}], "case": "hard: quantity says complete"}
+{"id": "b52", "date": "2026-09-25", "source": "DPR", "text": "XX-171 welding 50% done.", "gold": [{"a": "PIP-2214", "e": "PROGRESS", "d": "2026-09-25"}], "case": "easy: tag + step"}
+{"id": "b53", "date": "2026-09-26", "source": "DPR", "text": "TP-07 QA acceptance signed.", "gold": [], "case": "hard: premature QA sign-off (XX-112 not tested)"}
+{"id": "b54", "date": "2026-09-28", "source": "DPR", "text": "HT of XX-112 started.", "gold": [{"a": "PIP-1863", "e": "START", "d": "2026-09-28"}], "case": "learning: slang HT"}
+{"id": "b55", "date": "2026-09-29", "source": "VOICE", "text": "HT on one-one-two completed", "gold": [{"a": "PIP-1863", "e": "FINISH", "d": "2026-09-29"}], "case": "learning: slang HT + spoken tag"}
+{"id": "b56", "date": "2026-09-29", "source": "DPR", "text": "Welding XX-171 completed.", "gold": [{"a": "PIP-2214", "e": "FINISH", "d": "2026-09-29"}], "case": "easy: tag + step"}
+{"id": "b57", "date": "2026-09-30", "source": "DPR", "text": "XX-171 HT started.", "gold": [{"a": "PIP-2215", "e": "START", "d": "2026-09-30"}], "case": "learning: slang HT"}
+{"id": "b58", "date": "2026-09-30", "source": "DPR", "text": "TP-07 QA acceptance completed and signed by OIL QA.", "gold": [{"a": "QA-1845", "e": "FINISH", "d": "2026-09-30"}], "case": "gated: QA acceptance"}
+{"id": "b59", "date": "2026-10-01", "source": "DPR", "text": "XX-171 hydrotest completed.", "gold": [{"a": "PIP-2215", "e": "FINISH", "d": "2026-10-01"}], "case": "easy: tag + step"}
+{"id": "b60", "date": "2026-10-01", "source": "DPR", "text": "Mechanical completion certificate for PR-3 issued.", "gold": [{"a": "M-U3-MC", "e": "FINISH", "d": "2026-10-01"}], "case": "gated: milestone"}
+{"id": "b61", "date": "2026-10-02", "source": "DPR", "text": "Painting touch-up on XX-107 started.", "gold": [{"a": "NEW", "e": "", "d": ""}], "case": "hard: new work on known line"}

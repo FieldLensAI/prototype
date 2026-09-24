@@ -1,0 +1,20 @@
+{
+  "steps": {
+    "ERECT": ["erect", "erected", "erection", "lifted", "lift"],
+    "WELD": ["weld", "welded", "welding", "joints", "jts"],
+    "HYDROTEST": ["hydrotest", "hydro test", "hydrostatic test", "pressure test"],
+    "SET": ["set", "setting", "placed", "positioned"],
+    "GROUT": ["grout", "grouting", "grouted"],
+    "ALIGN": ["align", "aligned", "alignment"],
+    "EXCAVATE": ["excavate", "excavation", "excavated"],
+    "CONCRETE": ["pour", "poured", "concrete", "concreting"],
+    "BACKFILL": ["backfill", "backfilling", "backfilled"],
+    "LAY_CABLE": ["lay", "laying", "laid", "pulling", "pulled"],
+    "TERMINATE": ["terminate", "termination", "terminated", "glanding"],
+    "MEGGER": ["megger", "ir test", "insulation resistance"],
+    "QA_ACCEPT": ["qa acceptance"],
+    "MC": ["mechanical completion"]
+  },
+  "gated_prefixes": ["QA-", "M-"],
+  "confirmations_needed": 2
+}
