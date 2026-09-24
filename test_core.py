@@ -64,6 +64,12 @@ def test_learning_needs_confirmation():
     assert "PROVISIONAL_RULE" not in p.link(ht)["flags"] and p.step_of("HT") == ("HYDROTEST", "learned")
 
 
+def test_bad_news_goes_to_a_person():
+    p = project_on_13_sep()
+    d = p.link(ev("XX-170 hydrotest failed, leak at flange", "PROGRESS", ["XX-170"], "hydrotest", "VOICE"))
+    assert d["outcome"] == "REVIEW" and "ISSUE_REPORTED" in d["flags"], d
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):

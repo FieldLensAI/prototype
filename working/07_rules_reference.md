@@ -64,6 +64,7 @@ Tags not in the schedule (e.g. `PR-3`, `TP-03`) are ignored.
 | NO_ACTIVITY_FOR_STEP | Known tag, known step, no activity | "big exchanger hydro test" (E-201 has no hydrotest) |
 | NO_TAG | Linked by text search only | Civil foundations reports |
 | PROVISIONAL_RULE | Depends on a learned rule with fewer than 2 confirmations | Second "HT" report |
+| ISSUE_REPORTED | The report mentions a failure, leak, rework, repair, damage, stoppage or hold (or the event is a HOLD) | "XX-170 hydrotest failed, leak at flange" |
 
 **Auto-accept = ID or TAG+STEP path, exactly one candidate, and no flag at all.**
 

@@ -45,6 +45,21 @@
   }
  ],
  "1fc62ffa6367ab80fdbdd1d89835ffa01606cbe4": [],
+ "1fd182979cd19a0b9ae559343f74fb1a2b08e8ea": [
+  {
+   "completion_explicit": true,
+   "date": "2026-09-12",
+   "event_type": "FINISH",
+   "object_phrase": "XX-104",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-104 welding completed yesterday",
+   "tag_refs": [
+    "XX-104"
+   ],
+   "work_phrase": "welding"
+  }
+ ],
  "23a5f9690fc48fdb7bc2d6091d838d165f0ccdb6": [
   {
    "completion_explicit": true,
@@ -203,6 +218,34 @@
    "work_phrase": "fabricated"
   }
  ],
+ "36e3199503d088eddf52eebe78c28287205e0510": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "E-201",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "E-201 grouting",
+   "tag_refs": [
+    "E-201"
+   ],
+   "work_phrase": "grouting"
+  },
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-101",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-101 hydrotest",
+   "tag_refs": [
+    "XX-101"
+   ],
+   "work_phrase": "hydrotest"
+  }
+ ],
  "3bca0ce55a7e49a008f87d1a67967f539b7eb982": [
   {
    "completion_explicit": true,
@@ -231,6 +274,7 @@
    "work_phrase": "fabricated"
   }
  ],
+ "42fd1d0e9e2523c4fb4dd1557130de4c7116b25e": [],
  "459bce0a034aeda112a3d260c30a26deb0a0b74e": [
   {
    "completion_explicit": true,
@@ -259,6 +303,21 @@
     "P301A"
    ],
    "work_phrase": "set"
+  }
+ ],
+ "4f41c6917f59fdab8ae8ba48fdaab486f34d4247": [
+  {
+   "completion_explicit": false,
+   "date": "2026-09-13",
+   "event_type": "START",
+   "object_phrase": "PIP-1861",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "PIP-1861 started today",
+   "tag_refs": [
+    "PIP-1861"
+   ],
+   "work_phrase": null
   }
  ],
  "59daaddb94d43f942a35d7b50e44156fa362b3b5": [
@@ -428,6 +487,21 @@
    "work_phrase": "Excavation"
   }
  ],
+ "7070df03a7948d7a3efe17a13756ce41a4bbdb96": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "PROGRESS",
+   "object_phrase": "XX-170",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-170 hydrotest failed",
+   "tag_refs": [
+    "XX-170"
+   ],
+   "work_phrase": "hydrotest"
+  }
+ ],
  "7b8554fef142cd4f01415cb2c5592a7d9257db0c": [
   {
    "completion_explicit": true,
@@ -576,6 +650,7 @@
    "work_phrase": "Welding"
   }
  ],
+ "a7f9b9f6fb21e4a3d80a5b826830604b79d4a4ad": [],
  "aed2a0d07ee6d2cf4aac2149258c2dfd3ac02636": [
   {
    "completion_explicit": true,
@@ -709,6 +784,21 @@
    "work_phrase": "welding"
   }
  ],
+ "c461eaa5846fd30dfaa779d9cf7023dc072de098": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "line 999",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "line 999 erection done",
+   "tag_refs": [
+    "line 999"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
  "cd4b9aff7c6a614ec5478da9a28d432c0438967a": [
   {
    "completion_explicit": false,
@@ -765,6 +855,21 @@
    "work_phrase": "grouting"
   }
  ],
+ "db85f5da8d6e136976a3cd3aa8ae3d49ffde580a": [
+  {
+   "completion_explicit": true,
+   "date": null,
+   "event_type": "FINISH",
+   "object_phrase": "XX-112",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "XX-112 ka erection poora ho gaya",
+   "tag_refs": [
+    "XX-112"
+   ],
+   "work_phrase": "erection"
+  }
+ ],
  "dbdbb6803bdcc2ff2099865d5ac4dff1229968ee": [
   {
    "completion_explicit": false,
@@ -810,6 +915,7 @@
    "work_phrase": "welding"
   }
  ],
+ "e2893cc193d6d4fcf5c32d531c3c383c66a630dd": [],
  "e70a164e8affe0ff403a59cc8c92795ab44b4985": [
   {
    "completion_explicit": true,

@@ -25,7 +25,9 @@ FLAG_TEXT = {
     "NO_ACTIVITY_FOR_STEP": "Tag is known but no activity exists for this work step (possible new work)",
     "NO_TAG": "No tag in the report: matched by text search only",
     "PROVISIONAL_RULE": "Relies on a learned rule that is not yet confirmed",
+    "ISSUE_REPORTED": "Report mentions a problem (failure, leak, rework, hold, damage)",
 }
+ISSUE_RE = re.compile(r"\b(fail\w*|leak\w*|reject\w*|rework\w*|repair\w*|damage\w*|stop(ped|page)?|on hold|not ok|punch\w*)\b", re.I)
 
 
 def d(s):
@@ -162,6 +164,8 @@ class Project:
             flags.append("CONFLICTS_WITH_RECORDED_FINISH")
         if st["af"] and kind in ("START", "PROGRESS") and when and when > st["af"]:
             flags.append("AFTER_RECORDED_FINISH")
+        if kind == "HOLD" or ISSUE_RE.search(ev["span"]):   # bad news always goes to a person
+            flags.append("ISSUE_REPORTED")
         if aid.startswith(self.gated) and kind == "FINISH":
             flags.append("GATED")
         if ev["source"] in ("VOICE", "DIARY") and kind == "FINISH":
