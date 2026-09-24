@@ -117,6 +117,21 @@
    "work_phrase": "Backfill"
   }
  ],
+ "2d9c32c3c1783ca4cbaf62e760747029227d58b6": [
+  {
+   "completion_explicit": false,
+   "date": null,
+   "event_type": "START",
+   "object_phrase": "line one-oh-one",
+   "qty_done": null,
+   "qty_total": null,
+   "span": "HT on line one-oh-one started",
+   "tag_refs": [
+    "one-oh-one"
+   ],
+   "work_phrase": "HT"
+  }
+ ],
  "2ee3c29996151167f0b4bc66ea01afea987cad57": [
   {
    "completion_explicit": false,
