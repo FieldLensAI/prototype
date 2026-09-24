@@ -1,7 +1,7 @@
 # How the FieldLensAI prototype works
 
 This folder explains the prototype one screen at a time: what you see, what to click, what happens
-inside the code, and what to tell the judges.
+inside the code.
 
 | Doc | Screen |
 |---|---|
